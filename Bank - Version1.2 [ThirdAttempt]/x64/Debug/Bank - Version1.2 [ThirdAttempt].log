@@ -1,0 +1,7 @@
+﻿  Bank - Version1.2 [ThirdAttempt].cpp
+C:\AboHadhoudCourses\ProjectsDoneByMe\Course 8\Bank-Version1.2\Bank - Version1.2 [ThirdAttempt]\Bank - Version1.2 [ThirdAttempt].cpp(102,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\AboHadhoudCourses\ProjectsDoneByMe\Course 8\Bank-Version1.2\Bank - Version1.2 [ThirdAttempt]\Bank - Version1.2 [ThirdAttempt].cpp(625,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\AboHadhoudCourses\ProjectsDoneByMe\Course 8\Bank-Version1.2\Bank - Version1.2 [ThirdAttempt]\Bank - Version1.2 [ThirdAttempt].cpp(665,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\AboHadhoudCourses\ProjectsDoneByMe\Course 8\Bank-Version1.2\Bank - Version1.2 [ThirdAttempt]\Bank - Version1.2 [ThirdAttempt].cpp(696,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\AboHadhoudCourses\ProjectsDoneByMe\Course 8\Bank-Version1.2\Bank - Version1.2 [ThirdAttempt]\Bank - Version1.2 [ThirdAttempt].cpp(1104,1): warning C4715: 'DeleteUserByUserName': not all control paths return a value
+  Bank - Version1.2 [ThirdAttempt].vcxproj -> C:\AboHadhoudCourses\ProjectsDoneByMe\Course 8\Bank-Version1.2\x64\Debug\Bank - Version1.2 [ThirdAttempt].exe
